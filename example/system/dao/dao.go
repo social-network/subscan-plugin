@@ -1,10 +1,10 @@
 package dao
 
 import (
-	"github.com/itering/subscan-plugin/example/system/model"
-	"github.com/itering/subscan-plugin/tools"
-	"github.com/itering/substrate-api-rpc"
-	"github.com/itering/substrate-api-rpc/metadata"
+	"github.com/social-network/subscan-plugin/example/system/model"
+	"github.com/social-network/subscan-plugin/tools"
+	"github.com/social-network/substrate-api-rpc"
+	"github.com/social-network/substrate-api-rpc/metadata"
 	"github.com/jinzhu/gorm"
 	"strings"
 )

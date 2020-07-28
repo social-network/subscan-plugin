@@ -1,8 +1,8 @@
 package http
 
 import (
-	"github.com/itering/subscan-plugin/example/system/service"
-	"github.com/itering/subscan-plugin/router"
+	"github.com/social-network/subscan-plugin/example/system/service"
+	"github.com/social-network/subscan-plugin/router"
 	"net/http"
 )
 

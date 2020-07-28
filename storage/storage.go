@@ -1,7 +1,7 @@
 package storage
 
 import (
-	"github.com/itering/substrate-api-rpc/websocket"
+	"github.com/social-network/substrate-api-rpc/websocket"
 	"github.com/jinzhu/gorm"
 	"github.com/shopspring/decimal"
 )

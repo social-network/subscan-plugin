@@ -5,4 +5,4 @@
 // and any other packr generated files.
 package main
 
-import _ "github.com/itering/subscan-plugin/tools/gen-plugin/packrd"
+import _ "github.com/social-network/subscan-plugin/tools/gen-plugin/packrd"

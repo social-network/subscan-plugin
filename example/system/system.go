@@ -1,12 +1,12 @@
 package main
 
 import (
-	"github.com/itering/subscan-plugin/example/system/http"
-	"github.com/itering/subscan-plugin/example/system/model"
-	"github.com/itering/subscan-plugin/example/system/service"
-	"github.com/itering/subscan-plugin/router"
-	"github.com/itering/subscan-plugin/storage"
-	"github.com/itering/subscan-plugin/tools"
+	"github.com/social-network/subscan-plugin/example/system/http"
+	"github.com/social-network/subscan-plugin/example/system/model"
+	"github.com/social-network/subscan-plugin/example/system/service"
+	"github.com/social-network/subscan-plugin/router"
+	"github.com/social-network/subscan-plugin/storage"
+	"github.com/social-network/subscan-plugin/tools"
 	"github.com/shopspring/decimal"
 )
 

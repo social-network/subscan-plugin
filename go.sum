@@ -33,10 +33,10 @@ github.com/hashicorp/hcl v1.0.0/go.mod h1:E5yfLk+7swimpb2L/Alb/PJmXilQ/rhwaUYs4T
 github.com/huandu/xstrings v1.3.1 h1:4jgBlKK6tLKFvO8u5pmYjG91cqytmDCDvGh7ECVFfFs=
 github.com/huandu/xstrings v1.3.1/go.mod h1:y5/lhBue+AyNmUVz9RLU9xbLR0o4KIIExikq4ovT0aE=
 github.com/inconshreveable/mousetrap v1.0.0/go.mod h1:PxqpIevigyE2G7u3NXJIT2ANytuPF1OarO4DADm73n8=
-github.com/itering/scale.go v0.1.4 h1:LxvOuSEBdAxxvwk83qzB0cRsAkG2gghd7+5mEL7c1ng=
-github.com/itering/scale.go v0.1.4/go.mod h1:ufrA/8oz/qi4mtK8TXz4LFZzfJ4ZUQ+4z+cUNpY9jts=
-github.com/itering/substrate-api-rpc v0.0.1 h1:S3T2Zkzro4F5K4xeDxgUAgkSCwRjVUUKfY66VtENe2s=
-github.com/itering/substrate-api-rpc v0.0.1/go.mod h1:ZKxBwv7/sTG9ljne/SmkYTvHaCHkegIuMVjf4AF+w6w=
+github.com/social-network/scale.go v0.1.4 h1:LxvOuSEBdAxxvwk83qzB0cRsAkG2gghd7+5mEL7c1ng=
+github.com/social-network/scale.go v0.1.4/go.mod h1:ufrA/8oz/qi4mtK8TXz4LFZzfJ4ZUQ+4z+cUNpY9jts=
+github.com/social-network/substrate-api-rpc v0.0.1 h1:S3T2Zkzro4F5K4xeDxgUAgkSCwRjVUUKfY66VtENe2s=
+github.com/social-network/substrate-api-rpc v0.0.1/go.mod h1:ZKxBwv7/sTG9ljne/SmkYTvHaCHkegIuMVjf4AF+w6w=
 github.com/jinzhu/gorm v1.9.14 h1:Kg3ShyTPcM6nzVo148fRrcMO6MNKuqtOUwnzqMgVniM=
 github.com/jinzhu/gorm v1.9.14/go.mod h1:G3LB3wezTOWM2ITLzPxEXgSkOXAntiLHS7UdBefADcs=
 github.com/jinzhu/inflection v1.0.0 h1:K317FqzuhWc8YvSVlFMCCUb36O/S9MCKRDI7QkRKD/E=

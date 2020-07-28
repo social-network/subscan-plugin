@@ -9,5 +9,5 @@ todo
 ## Install
 
 ```
-go get github.com/itering/subscan-plugin
+go get github.com/social-network/subscan-plugin
 ```
